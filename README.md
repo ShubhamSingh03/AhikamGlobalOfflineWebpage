@@ -2,6 +2,7 @@
 
 This repo.contains the offline webpages designed for Ahikam Global.
 It contains the HTML, CSS, Bootstrap. (Front-end)
+The public_html contains all the bootstrap,js,jquery,html & css pages.
 
 The Screenshots of the webpages are:
 
